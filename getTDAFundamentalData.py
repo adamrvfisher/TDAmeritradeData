@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 TD API Get Fundamental Data
-@author: https://github.com/alexgolec/tda-api
-shout out to Part Time Larry!
+@author: Adam Reinhold Von Fisher
+TDA API from - https://github.com/alexgolec/tda-api
 """
 
 #import modules
