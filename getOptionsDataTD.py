@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 TD API Option Data - Full Guide
-@author: https://github.com/alexgolec/tda-api
-shout out to Part Time Larry!!!
+@author: Adam Reinhold Von Fisher
+TDA API from - https://github.com/alexgolec/tda-api
 """
 
 from tda import auth, client
